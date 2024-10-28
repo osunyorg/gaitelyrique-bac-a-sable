@@ -5,8 +5,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
+- title: Programmation
+  target: "/programmation/"
   kind: page
   children: []
 - title: Projets
