@@ -21,4 +21,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: La fabrique de l'époque
+  target: "/la-fabrique-de-lepoque/"
+  kind: page
+  children: []
 
