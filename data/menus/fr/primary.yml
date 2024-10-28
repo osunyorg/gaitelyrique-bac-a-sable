@@ -9,4 +9,8 @@ items:
   target: "/la-fabrique-de-lepoque/"
   kind: page
   children: []
+- title: Visite
+  target: "/visite/"
+  kind: page
+  children: []
 
