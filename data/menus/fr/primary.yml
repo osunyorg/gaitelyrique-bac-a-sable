@@ -5,15 +5,18 @@ items:
   target: "/programmation/"
   kind: page
   children: []
+  path: "/events"
   file: content/fr/events/_index.html
 - title: La fabrique de l'époque
   target: "/la-fabrique-de-lepoque/"
   kind: page
   children: []
+  path: "/pages/la-fabrique-de-lepoque"
   file: content/fr/pages/la-fabrique-de-lepoque/_index.html
 - title: Visite
   target: "/visite/"
   kind: page
   children: []
+  path: "/pages/visite"
   file: content/fr/pages/visite/_index.html
 
