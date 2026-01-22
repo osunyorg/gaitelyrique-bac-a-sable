@@ -3,7 +3,7 @@
 fr:
   title: >-
     Documentation Design System
-  contentDir: ./content/fr
+  contentDir: content/fr
   languageCode: fr
   languageName: Français
   buildFuture: true
@@ -26,10 +26,3 @@ fr:
     researcher: researchers
     teacher: teachers
     volume: volumes
-en:
-  title: >-
-    Example
-  contentDir: content/en
-  languageCode: en
-  languageName: English
-  buildFuture: true
