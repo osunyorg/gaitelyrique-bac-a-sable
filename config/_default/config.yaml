@@ -1,1 +1,9 @@
 theme: gaitelyrique-www
+_merge: deep
+ignoreFiles:
+  - themes/gaitelyrique-www/content
+
+params:
+  debug:
+    active: true
+    productionUrl: https://example.osuny.org
