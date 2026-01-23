@@ -1,7 +1,39 @@
 default:
 contents_reading_time:
-  seconds: 0
+  seconds: 5
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: chapter
+    title: >-
+      Comment tester ?
+    slug: >-
+      comment-tester
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Comment tester ?
+        heading: 2
+    data:
+      layout: no_background
+      text: >-
+        <p>Vous pouvez à tout moment appuyer sur CTRL + W pour passer d'une largeur partielle à une pleine largeur.</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
 
